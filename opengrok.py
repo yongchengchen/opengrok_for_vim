@@ -1,11 +1,3 @@
-# -*- c--oding: ko_KR.UTF-8 -*-
-# remote PHP opengrok : remote opengrok interface to DBGp protocol
-#
-# Authors:
-#    Seung Woo Shin <segv <at> sayclub.com>
-#    Sam Ghods <sam <at> box.net>
-#    Hadi Zeftin <slack.dna <at> gmail.com>
-
 import os
 import sys
 import vim
